@@ -1752,7 +1752,7 @@
     (property "Reference" "C4" (at 91.44 38.1 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "100nF" (at 91.44 40.64 90)
+    (property "Value" "0.1uF" (at 91.44 40.64 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm" (at 95.25 44.7548 0)
